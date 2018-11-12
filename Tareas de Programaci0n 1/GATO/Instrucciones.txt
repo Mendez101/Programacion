@@ -1,0 +1,12 @@
+Para jugar primero nesesitas saber ciertas cosas 
+
+1-Los numeros representan una pocision en la casilla. 
+
+2-Para seleccionar una casilla presiona el nuemero correspondiente
+  seguido de la tecla "Enter".
+
+3-No presiones letras.
+
+4-Si el jjuego tiene problemas porfavor reinicielo.
+
+Gracias Por jugar :,D
