@@ -8,8 +8,8 @@ Este Almacena los resultados y los muestra resultados  en consola.*/
 //Librerias
 #include <iostream>//Libreria de entradas y salidas
 #include <cstdlib>//Contiene Funicones y macros
-#include <math.h>// Contiene los prototipos de las funciones y otras definiciones para el uso y manipulaciÛn de funciones matem·ticas
-#include <fstream>//Flujos hacia/desde ficheros. Permite la manipulaciÛn de archivos desde el programar, tanto leer como escribir en ellos.
+#include <math.h>// Contiene los prototipos de las funciones y otras definiciones para el uso y manipulaci√≥n de funciones matem√°ticas
+#include <fstream>//Flujos hacia/desde ficheros. Permite la manipulaci√≥n de archivos desde el programar, tanto leer como escribir en ellos.
 #include <string>//contenedores tipo string;
 #include <sstream>//Proporciona algunas plantillas
 #include <conio.h>//Libreria para comandos
@@ -41,7 +41,7 @@ void menu(){//uso de funcion para el menu, no retorna, no recibe parametros
      //Presentacion del Menu
 	cout<<"-- Menu Principal --"<<endl;//Imprime en pantalla
 	cout<<endl;
-	cout<<"1. Resolver Bibonacci"<<endl;//Imprime en pantalla
+	cout<<"1. Resolver Fibonacci"<<endl;//Imprime en pantalla
 	cout<<"2. Serie de Taylor"<<endl;//Imprime en pantalla
 	cout<<"3. Ver resultados"<<endl;//Imprime en pantalla
 	cout<<"4. Salir"<<endl;//Imprime en pantalla
